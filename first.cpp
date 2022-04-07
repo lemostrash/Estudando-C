@@ -2,5 +2,10 @@
 
 int main(){
 	
-	printf("Hello, World!\n");
+	int idade;
+	
+	printf("l\n");
+	scanf("%d", &idade);
+	
+	printf("Idade informada: %d.", idade);
 }
